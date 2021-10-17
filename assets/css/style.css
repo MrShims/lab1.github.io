@@ -367,15 +367,18 @@ hr {
     text-align: center;
     display: flex;
     position: relative;
+
+
 }
 .portait__items {
     flex: 1 1 1 0;
     position: relative;
     display: inline-block;
     vertical-align: top;
+    margin-left: 80px;
+
 }
 .flexboxing1__icon {
-    padding-left: 75PX;
     position: relative;
 
 }
